@@ -1,5 +1,0 @@
-pop_size 50 100 500
-ngenerations 50 100 500
-5 x cada
-
-Depois repete
